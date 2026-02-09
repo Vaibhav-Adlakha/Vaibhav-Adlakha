@@ -26,7 +26,7 @@ I’m a business-focused professional transitioning from Talent Acquisition into
 
 ### Power BI Dashboards
 - **HR Analytics Dashboard** — Attrition, KPIs, workforce insights  
-- **Uber Trip Analysis Dashboard** *(in progress)* — Bookings, revenue, trip trends
+- **Uber Trip Analysis Dashboard** — Bookings, revenue, trip trends
 ---
 
 ## Connect with Me
